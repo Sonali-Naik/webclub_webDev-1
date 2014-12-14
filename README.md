@@ -1,4 +1,6 @@
-webclub_webDev
+Web and Android Development
 ==============
 
-Web and Android Development Club
+>New github account setup.
+>Forked bootstrap
+>Cloned bootstrap
