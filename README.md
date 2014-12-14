@@ -1,6 +1,7 @@
 Web and Android Development
 ==============
-
->New github account setup.
->Forked bootstrap
->Cloned bootstrap
+<ul>
+<li>New github account setup</li>
+<li>Forked bootstrap</li>
+<li>Cloned bootstrap</li>
+</ul>
